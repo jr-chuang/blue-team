@@ -1,4 +1,4 @@
-# Red Team
+# Blue Team
 
 Project directory.
 
@@ -9,13 +9,13 @@ If not already installed, install [node.js](https://nodejs.org/en/) and [git](ht
 Navigate to the directory that will hold the project in your respective command-line and enter the following:
 
 ```
-$ git clone https://github.com/jr-chuang/red-team.git
+$ git clone https://github.com/jr-chuang/blue-team.git
 ```
 
 Navigate into the newly created directory:
 
 ```
-$ cd red-team
+$ cd blue-team
 ```
 
 Install build dependencies with the following:
